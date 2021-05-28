@@ -12,7 +12,7 @@ myImage.onclick = function() {
 var myButton = document.querySelector('button');
 var myHeading = document.querySelector('h1');
 
-/*
+
 function setUserName() {
   let myName = prompt('Please enter your name.'); //對話視窗函式
   localStorage.setItem('name', myName);
