@@ -1,0 +1,33 @@
+html {
+  font-size: 10px; /* 設定整個網頁像素(大小)  */
+  font-family: placeholder: this should be the rest of the output you got from Google fonts /*設定文件中使用的字體*/
+}
+
+html {
+  background-color: #00539F; /* 背景顏色設置*/
+}
+
+h1 { /* h1元素屬性設置*/
+  font-size: 40px; /*字體大小*/
+  text-align: center; /*位置置中*/
+  color: blue; /*字體顏色*/
+}
+
+p, li ,a {
+  font-size: 20px;
+  line-height: 1.5; /* 行高調整 */
+  letter-spacing: 1px; /*字的間距*/
+}
+
+body {
+  width: 600px;/*元素的寬度*/
+  margin: 0 auto;/*元素外部的空間*/
+  background-color: #FF9500;/*元素內容的背景顏色*/
+  padding: 0px 20px 20px 20px;/*內容周圍的空格 上 右 下 左*/
+  border: 5px solid black; /*內容外部的實線*/
+}
+
+img {
+  display: block;
+  margin: 0 auto; /*圖像置中*/
+}
